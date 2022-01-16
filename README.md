@@ -18,3 +18,6 @@ Quantum Embdedding Layer:
     https://www.youtube.com/watch?v=mNR-7OmilIo
     
 ```
+
+
+![psimplex](https://user-images.githubusercontent.com/25654848/149673863-9b171636-b216-4b12-abaa-7cd9057ed8c4.png)
